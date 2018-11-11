@@ -1,7 +1,14 @@
 # Awesome Identicon [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-> A curated list of Identicons-like (Avatars, Identicons, and Hash Visualization) original ideas and libraries, *sorted by date of appearance - old-to-new*
+> A curated list of Identicons (Avatars, Identicons, and Hash Visualization)
+
+<!-- 1999 -->
+## RandomArt
+![RandomArt by Alexander von Gernler — 2008,](media/RandomArt_OpenSSH.png)
+
+
+[OpenSSH](https://www.openssh.com/txt/release-5.1) RandomArt, by Alexander von Gernler — 2008, *based on Random Art concept of [Perrig and Song paper](https://users.ece.cmu.edu/~adrian/projects/validation/validation.pdf "Hash Visualization: a New Technique to improve Real-World Security") — 1999*
 
 <!-- 2007 -->
 ## Identicon
@@ -40,7 +47,8 @@
 <!-- 2014 -->
 ## Letter Avatar
 *It’s not clear who come first with the First Letter & Initials Avatars concept, (widely used by Google GMail) but there are several open source libraries from 2014, such as [LetterAvatar](https://github.com/ksz2k/letter_avatar), [Letterpic](https://github.com/yakovlevga/letterpic) and [ngletteravatar](https://github.com/uttesh/ngletteravatar)*
-![](media/First-Letter-Avatars.png)
+
+![Letter Avatar — 2014](media/First-Letter-Avatars.png)
 
  Letter Avatar — 2014
 
