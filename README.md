@@ -1,7 +1,7 @@
 # Awesome Identicon [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-> A curated list of Identicons (Avatars, Identicons, and Hash Visualization)
+> A curated list of Identicons (Avatars, Identicons, and Hash Visualization) *sorted by date of appearance - old-to-new*
 
 <!-- 2007 -->
 ## Identicon
