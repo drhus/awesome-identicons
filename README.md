@@ -1,14 +1,14 @@
 # Awesome Identicon [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-> A curated list of Identicons (Avatars, Identicons, and Hash Visualization)
+> A curated list of Identicons-like (Avatars, Identicons, and Hash Visualization) original ideas and libraries, *sorted by date of appearance*
 
 <!-- 1999 -->
 ## RandomArt
-![RandomArt by Alexander von Gernler — 2008,](media/RandomArt_OpenSSH.png)
+![RandomArt by Alexander von Gernler — 2008,](media/RandomArt_OpenSSH.png) <!-- w/ https://github.com/qistoph/RandArt -->
 
 
-[OpenSSH](https://www.openssh.com/txt/release-5.1) RandomArt, by Alexander von Gernler — 2008, *based on Random Art concept of [Perrig and Song paper](https://users.ece.cmu.edu/~adrian/projects/validation/validation.pdf "Hash Visualization: a New Technique to improve Real-World Security") — 1999*
+[The drunken bishop](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.4771&rep=rep1&type=pdf) algorithm for [OpenSSH](https://www.openssh.com/txt/release-5.1) RandomArt, by Alexander von Gernler — 2008, *based on random art concept of [Perrig and Song paper](https://users.ece.cmu.edu/~adrian/projects/validation/validation.pdf "Hash Visualization: a New Technique to improve Real-World Security") — 1999*
 
 <!-- 2007 -->
 ## Identicon
