@@ -12,7 +12,7 @@ process easy and effective for everyone involved.
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/<your-username>/awesome-identicons.git
+   git clone https://github.com/drhus/awesome-identicons.git
    # Navigate to the newly cloned directory
    cd awesome-identicons
    ```
