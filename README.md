@@ -74,7 +74,7 @@ Javascript library for generating identicons. Running in the browser and on Node
 ## Adorable Avatars
 ![Adorable Avatars, by Adorable IO — 2014](media/Adorable-Avatars_Adorable-IO.png)
 
-[Adorable Avatars](https://github.com/adorableio/avatars-api-middleware), by [Adorable IO](https://github.com/adorableio) - 2014
+[Adorable Avatars](https://github.com/adorableio/avatars-api-middleware), by [Jim Remsik](https://github.com/bigtiger)<!-- [Adorable IO](https://github.com/adorableio) -->- 2014
 
 ## FlatHash
 ![FlatHash, by Roberto Horta — 2014](media/flathash_Micah-Nordland.png)
