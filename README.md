@@ -26,12 +26,12 @@
 ## Vash
 ![Vash, by Terrence Cole - 2011](media/Vash_Terrence-Cole.png)
 
-[Vash](https://github.com/thevash/vash), by Terrence Cole - 2011
+[Vash](https://github.com/thevash/vash), by Terrence Cole —  2011
 
 ## RoboHash
 ![](media/RoboHash_Colin-Davis.png)
 
-[RoboHash](https://github.com/e1ven/Robohash), by [Colin Davis](https://github.com/e1ven) — 2011
+[RoboHash](https://github.com/e1ven/Robohash), by [Colin Davis](https://github.com/e1ven)  —  2011
 
 
 <!-- 2012 -->
@@ -91,6 +91,14 @@ Jazzy deterministic identicons for a more entertaining future.
 ![Jazzicon, by Dan Finlay — 2016](media/Jazzicon_Dan-Finlay.png)
 
 [Jazzicon](https://github.com/danfinlay/jazzicon), by [Dan Finlay](https://github.com/danfinlay) — 2016
+
+<!-- 2017 -->
+
+## Circular
+![](media/Circular-identicons_Agni-Flechette.png)
+
+[Circular Identicons](https://github.com/ea7ababe/identicon), by [Agni Flechette](https://github.com/ea7ababe)  —  2017
+
 
 <!-- 2018 -->
 
