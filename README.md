@@ -113,7 +113,7 @@ Jazzy deterministic identicons for a more entertaining future.
 [HashIcon](https://github.com/ETCDEVTeam/hashicon), by [Richard Schumann](https://github.com/scco) — 2018
 
 ## Hexicon
-![](hexicon_Jon-Van-Oast.png)
+![Hexicon, by Jon Van Oast - 2018](media/hexicon_Jon-Van-Oast.png)
 
 [Hexicon](https://github.com/naknomum/hexicon/), by [Jon Van Oast](https://github.com/naknomum) - 2018
 
