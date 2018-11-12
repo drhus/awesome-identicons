@@ -112,6 +112,11 @@ Jazzy deterministic identicons for a more entertaining future.
 
 [HashIcon](https://github.com/ETCDEVTeam/hashicon), by [Richard Schumann](https://github.com/scco) — 2018
 
+## Hexicon
+![](hexicon_Jon-Van-Oast.png)
+
+[Hexicon](https://github.com/naknomum/hexicon/), by [Jon Van Oast](https://github.com/naknomum) - 2018
+
 
 ## Hydro-Snowflake
 ![Hydro-Snowflake, by Rawad Ahmad Salhab — 2018](media/Hydro-Snowflake_Rawad-Ahmad-Salhab.png)
