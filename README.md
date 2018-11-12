@@ -52,7 +52,10 @@
 
  Letter Avatar — 2014
 
+## Bubble
+![Bubble Identicons, by Doug Akridge - 2014](media/bubble-identicon_Doug-Akridge.png)
 
+[Bubble Identicons](https://github.com/dakridge/identicon), by [Doug Akridge](https://github.com/dakridge) — 2014
 
 ## Jdenticon
 Javascript library for generating identicons. Running in the browser and on Node.js.
@@ -64,12 +67,12 @@ Javascript library for generating identicons. Running in the browser and on Node
 ## Blockies
 <1k library that generates blocky identicons
 
-![blockies by Alex Van de Sande - 2014](media/Blockies_Alex-Van-de-Sande.png)
+![blockies by Alex Van de Sande — 2014](media/Blockies_Alex-Van-de-Sande.png)
 
 [Blockies](https://github.com/ethereum/blockies), by [Alex Van de Sande](https://github.com/alexvandesande) — 2014
 
 ## Adorable Avatars
-![Adorable Avatars, by Adorable IO - 2014](media/Adorable-Avatars_Adorable-IO.png)
+![Adorable Avatars, by Adorable IO — 2014](media/Adorable-Avatars_Adorable-IO.png)
 
 [Adorable Avatars](https://github.com/adorableio/avatars-api-middleware), by [Adorable IO](https://github.com/adorableio) - 2014
 
