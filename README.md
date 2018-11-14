@@ -24,12 +24,12 @@
 ## Wavatars
 ![](media/Wavatars_Shamus-Young.png)
 
-[Wavatars](http://www.shamusyoung.com/twentysidedtale/?p=1462), by [Shamus Young](https://github.com/ShamusYoung) —  2007 <!-- Original author needed to be confirmed) 
+[Wavatars](http://www.shamusyoung.com/twentysidedtale/?p=1462), by [Shamus Young](https://github.com/ShamusYoung) —  2007 
 
 ## WP-Identicon
 ![](media/wp-identicon_Scott-Sherrill-Mix.png	)
 
-[WP-Identicon](http://scott.sherrillmix.com/blog/blogger/wp_identicon/), by [Scott Sherrill-Mix](https://github.com/sherrillmix) —  2007 <!-- Original author needed to be confirmed)
+[WP-Identicon](http://scott.sherrillmix.com/blog/blogger/wp_identicon/), by [Scott Sherrill-Mix](https://github.com/sherrillmix) —  2007 
 
 
 <!-- 2010 -->
