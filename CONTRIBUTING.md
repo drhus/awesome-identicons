@@ -22,7 +22,7 @@ process easy and effective for everyone involved.
    ```bash
    git checkout -b <my-new-identicon>
    ```
-__NOTE__: Before you commit, ensure that your update using the same Awesome Identicons structure:
+__NOTE__: Before you commit, ensure that your update using the same Awesome Identicons structure (image [490x280](https://drive.google.com/drive/folders/1VviY0FmrBYpbW5gaVzZygupOCuwAeWOK?usp=sharing))
 
 3. Commit your changes
 
