@@ -37,7 +37,7 @@
 ## Retro
 ![](media/retro.png)
 
-[Retro](), by Gravatar —  2010? <!-- Original author unknow!)  
+[Retro](), by Gravatar —  2010? <!-- Original author unknow! -->
 
 
 <!-- 2011 -->
