@@ -24,12 +24,12 @@
 ## Wavatars
 ![](media/Wavatars_Shamus-Young.png)
 
-[Wavatars](http://www.shamusyoung.com/twentysidedtale/?p=1462), by [Shamus Young](https://github.com/ShamusYoung) —  2007 
+[Wavatars](http://www.shamusyoung.com/twentysidedtale/?p=1462), by [Shamus Young](https://github.com/ShamusYoung) —  2007
 
 ## WP-Identicon
 ![](media/wp-identicon_Scott-Sherrill-Mix.png	)
 
-[WP-Identicon](http://scott.sherrillmix.com/blog/blogger/wp_identicon/), by [Scott Sherrill-Mix](https://github.com/sherrillmix) —  2007 
+[WP-Identicon](http://scott.sherrillmix.com/blog/blogger/wp_identicon/), by [Scott Sherrill-Mix](https://github.com/sherrillmix) —  2007
 
 
 <!-- 2010 -->
@@ -69,7 +69,7 @@
 
 ![Letter Avatar — 2014](media/First-Letter-Avatars.png)
 
- Letter Avatar — 2014
+Letter Avatar — 2014
 
 ## Bubble
 ![Bubble Identicons, by Doug Akridge - 2014](media/bubble-identicon_Doug-Akridge.png)
@@ -77,15 +77,11 @@
 [Bubble Identicons](https://github.com/dakridge/identicon), by [Doug Akridge](https://github.com/dakridge) — 2014
 
 ## Jdenticon
-Javascript library for generating identicons. Running in the browser and on Node.js.
-
 ![jdenticon, by Daniel Mester Pirttijärvi — 2014](media/jdenticon_Daniel-Mester-Pirttijarvi.png)
 
  [jdenticon](https://github.com/dmester/jdenticon), by [Daniel Mester Pirttijärvi](https://github.com/dmester) — 2014
 
 ## Blockies
-<1k library that generates blocky identicons
-
 ![blockies by Alex Van de Sande — 2014](media/Blockies_Alex-Van-de-Sande.png)
 
 [Blockies](https://github.com/ethereum/blockies), by [Alex Van de Sande](https://github.com/alexvandesande) — 2014
@@ -107,19 +103,29 @@ Javascript library for generating identicons. Running in the browser and on Node
 
 [IdentiHeart](https://github.com/Schlipak/IdentiHeart), by [Guillaume Schlipak](https://github.com/Schlipak) — 2015
 
+## Florash
+![](media/florash_Francois-Lafortune.png)
+
+[Florash](https://github.com/AKRFranko/Florash), by [Francois Lafortune](https://github.com/AKRFranko) - 2015
+
+
 <!-- 2016 -->
 
 ## Jazzicon
-Jazzy deterministic identicons for a more entertaining future.
-
 ![Jazzicon, by Dan Finlay — 2016](media/Jazzicon_Dan-Finlay.png)
 
 [Jazzicon](https://github.com/danfinlay/jazzicon), by [Dan Finlay](https://github.com/danfinlay) — 2016
 
+## Ringicon
+![Ringicon, by Andreas Gohr — 2016](media/Ringicon_Andreas-Gohr.png)
+
+[Ringicon](https://github.com/splitbrain/php-ringicon), by [Andreas Gohr](https://github.com/splitbrain) — 2016
+
+
 <!-- 2017 -->
 
 ## Circular
-![](media/Circular-identicons_Agni-Flechette.png)
+![Circular Identicons, by Agni Flechette  —  2017](media/Circular-identicons_Agni-Flechette.png)
 
 [Circular Identicons](https://github.com/ea7ababe/identicon), by [Agni Flechette](https://github.com/ea7ababe)  —  2017
 
@@ -147,6 +153,17 @@ Jazzy deterministic identicons for a more entertaining future.
 ![Pictogrify, by Lúcio Rubens - 2018](media/Pictogrify_Lucio-Rubens.png)
 
 [Pictogrify](https://github.com/luciorubeens/pictogrify), by [Lúcio Rubens](https://github.com/luciorubeens) - 2018
+
+## monKey <!-- NOT an Open-source -->
+![monKey, by Amir Hagafny - 2018](media/monKey-Amir-Hagafny.png)
+
+[monKey](http://www.monkeygen.com/), by [Amir Hagafny](https://medium.com/@amirhagafny) - 2018
+
+## Polkadot-Identicon <!-- NOT an Original idea, adapted from Jazzicon -->
+![Polkadot-Identicon, by Pokadot - 2018](media/polkadot-identicon_Polkadot.png)
+
+[Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) - 2018
+
 
 
 # Contributing
