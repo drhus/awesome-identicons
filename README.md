@@ -64,13 +64,6 @@
 
 
 <!-- 2014 -->
-## Letter Avatar
-*It’s not clear who come first with the First Letter & Initials Avatars concept, (widely used by Google GMail) but there are several open source libraries from 2014, such as [LetterAvatar](https://github.com/ksz2k/letter_avatar), [Letterpic](https://github.com/yakovlevga/letterpic) and [ngletteravatar](https://github.com/uttesh/ngletteravatar)*
-
-![Letter Avatar — 2014](media/First-Letter-Avatars.png)
-
-Letter Avatar — 2014
-
 ## Bubble
 ![Bubble Identicons, by Doug Akridge - 2014](media/bubble-identicon_Doug-Akridge.png)
 
@@ -163,6 +156,25 @@ Letter Avatar — 2014
 ![Polkadot-Identicon, by Pokadot - 2018](media/polkadot-identicon_Polkadot.png)
 
 [Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) - 2018
+
+# Honorable mention
+## QR-Code
+![](media/QR-code_Denso-Wave.png)
+
+[QR-code](http://www.qrcode.com/), by [Denso-Wave](https://www.denso-wave.com/) - 1994
+
+## Letter Avatar
+*It’s not clear who come first with the First Letter & Initials Avatars concept, (widely used by Google GMail) but there are several open source libraries from 2014, such as [LetterAvatar](https://github.com/ksz2k/letter_avatar), [Letterpic](https://github.com/yakovlevga/letterpic) and [ngletteravatar](https://github.com/uttesh/ngletteravatar)*
+
+![Letter Avatar — 2014](media/First-Letter-Avatars.png)
+
+Letter Avatar — 2014
+
+## Animal Identicon
+![](media/animal-identicon.png)
+
+Anonymous animals, by Google docs - 20??
+<!-- also available [animal-identicon-js](https://github.com/camelmasa/animal-identicon-js) -->
 
 
 
