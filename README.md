@@ -14,7 +14,7 @@
 ## Identicon
 ![Identicon by Don Park - 2007](media/Identicon_Don-Park.png)
 
-[Identicon](http://identicon.net/), by [Don Park](https://github.com/donpark) — 2007
+[Identicon](https://github.com/donpark/identicon), by [Don Park](https://github.com/donpark) — 2007
 
 ## MonsterID
 ![MonsterID by Andreas Gohr - 2007](media/MonsterID_Andreas-Gohr.png)
@@ -62,6 +62,10 @@
 
 <!-- 2013 -->
 
+## Github Identicon
+![](media/Identicon_Don-Park.png)
+
+[Github Identicon](http://identicon.net/), by [Jason Long](https://github.com/jasonlong) — 2013
 
 <!-- 2014 -->
 ## Bubble
