@@ -63,7 +63,7 @@
 <!-- 2013 -->
 
 ## Github Identicon
-![](media/Identicon_Don-Park.png)
+![](media/Github-Identicon_Jason-Long.png)
 
 [Github Identicon](http://identicon.net/), by [Jason Long](https://github.com/jasonlong) — 2013
 
