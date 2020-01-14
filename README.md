@@ -126,6 +126,11 @@
 
 [Circular Identicons](https://github.com/ea7ababe/identicon), by [Agni Flechette](https://github.com/ea7ababe)  —  2017
 
+## Gradient
+![Gradient Avatars, by Tobias Lins  —  2017](media/Gradient-avatars_Tobias-Lins.png)
+
+[Gradient Avatars](https://github.com/tobiaslins/avatar), by [Tobias Lins](https://github.com/tobiaslins)  —  2017
+
 
 <!-- 2018 -->
 
