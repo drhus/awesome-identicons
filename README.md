@@ -161,6 +161,11 @@
 
 [Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) - 2018
 
+## Urbit Sigils
+![Urbit Sigils – 2020](media/sigils11-v2.png)
+
+[Sigils](https://urbit.org/blog/creating-sigils), by [Urbit](https://urbit.org/) – 2020
+
 ## Hashvatars
 ![Hashvatars, by François Best – 2021](media/Hashvatar-Francois-Best.png)
 
