@@ -126,6 +126,11 @@
 
 [Circular Identicons](https://github.com/ea7ababe/identicon), by [Agni Flechette](https://github.com/ea7ababe)  —  2017
 
+## Snowflakes
+![Snowflakes, by Raph Levien — 2017](media/Snowflakes-Raph-Levien.png)
+
+[Snowflakes](https://levien.com/snowflake-explain.html), by [Raph Levien](https://levien.com/) — 2018
+
 
 <!-- 2018 -->
 
