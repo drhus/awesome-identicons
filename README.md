@@ -161,6 +161,11 @@
 
 [Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) - 2018
 
+## Hashvatars
+![Hashvatars, by François Best – 2021](media/Hashvatar-Francois-Best.png)
+
+[Hashvatars](https://francoisbest.com/posts/2021/hashvatars), by [François Best](https://francoisbest.com/) – 2021
+
 # Honorable mention
 ## QR-Code
 ![](media/QR-code_Denso-Wave.png)
