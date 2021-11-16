@@ -195,6 +195,10 @@ Letter Avatar — 2014
 Anonymous animals, by Google docs - 20??
 <!-- also available [animal-identicon-js](https://github.com/camelmasa/animal-identicon-js) -->
 
+## Blank.JS
+![Blank.JS](media/blank-js.png)
+
+[Blank.JS](https://www.blankjs.com/), by [Dyssent](https://github.com/dyssent) – 2019
 
 
 # Contributing
