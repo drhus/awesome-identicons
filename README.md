@@ -60,6 +60,11 @@
 
 [Stitchy](https://github.com/craftoid/stitchies-p5), by [Martin Schneider](https://github.com/craftoid) — 2012
 
+## Moji
+![Moji, by Michael Luggen — 2012](media/Moji-Michael-Luggen.png)
+
+[Moji](https://exascale.info/assets/pdf/students/MSc_Thesis_-_Michael_Luggen__14_09_2012.pdf), by [Michael Luggen](https://github.com/l00mi) — 2012
+
 <!-- 2013 -->
 
 ## Github Identicon
