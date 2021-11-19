@@ -60,6 +60,11 @@
 
 [Stitchy](https://github.com/craftoid/stitchies-p5), by [Martin Schneider](https://github.com/craftoid) — 2012
 
+## Moji
+![Moji, by Michael Luggen — 2012](media/Moji-Michael-Luggen.png)
+
+[Moji](https://exascale.info/assets/pdf/students/MSc_Thesis_-_Michael_Luggen__14_09_2012.pdf), by [Michael Luggen](https://github.com/l00mi) — 2012
+
 <!-- 2013 -->
 
 ## Github Identicon
@@ -126,6 +131,11 @@
 
 [Circular Identicons](https://github.com/ea7ababe/identicon), by [Agni Flechette](https://github.com/ea7ababe)  —  2017
 
+## Snowflakes
+![Snowflakes, by Raph Levien — 2017](media/Snowflakes-Raph-Levien.png)
+
+[Snowflakes](https://levien.com/snowflake-explain.html), by [Raph Levien](https://levien.com/) — 2018
+
 
 <!-- 2018 -->
 
@@ -161,6 +171,16 @@
 
 [Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) - 2018
 
+## Urbit Sigils
+![Urbit Sigils – 2020](media/sigils11-v2.png)
+
+[Sigils](https://urbit.org/blog/creating-sigils), by [Urbit](https://urbit.org/) – 2020
+
+## Hashvatars
+![Hashvatars, by François Best – 2021](media/Hashvatar-Francois-Best.png)
+
+[Hashvatars](https://francoisbest.com/posts/2021/hashvatars), by [François Best](https://francoisbest.com/) – 2021
+
 # Honorable mention
 ## QR-Code
 ![](media/QR-code_Denso-Wave.png)
@@ -180,6 +200,10 @@ Letter Avatar — 2014
 Anonymous animals, by Google docs - 20??
 <!-- also available [animal-identicon-js](https://github.com/camelmasa/animal-identicon-js) -->
 
+## Blank.JS
+![Blank.JS](media/blank-js.png)
+
+[Blank.JS](https://www.blankjs.com/), by [Dyssent](https://github.com/dyssent) – 2019
 
 
 # Contributing
