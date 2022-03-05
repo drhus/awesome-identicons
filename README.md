@@ -166,6 +166,12 @@
 
 [Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) — 2018
 
+
+## LifeHash
+![LifeHash, by Wolf McNally and Blockchain Commons, 2018](media/LifeHash_Wolf-McNally.png)
+
+[LifeHash](https://github.com/BlockchainCommons/bc-lifehash), by [Wolf McNally](https://github.com/WolfMcNally) and [Blockchain Commons](https://github.com/BlockchainCommons) - 2018
+
 # Honorable mention
 ## QR-Code
 ![](media/QR-code_Denso-Wave.png)
