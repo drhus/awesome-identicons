@@ -12,12 +12,12 @@
 
 <!-- 2007 -->
 ## Identicon
-![Identicon by Don Park - 2007](media/Identicon_Don-Park.png)
+![Identicon by Don Park — 2007](media/Identicon_Don-Park.png)
 
 [Identicon](https://github.com/donpark/identicon), by [Don Park](https://github.com/donpark) — 2007
 
 ## MonsterID
-![MonsterID by Andreas Gohr - 2007](media/MonsterID_Andreas-Gohr.png)
+![MonsterID by Andreas Gohr — 2007](media/MonsterID_Andreas-Gohr.png)
 
 [MonsterID](https://github.com/splitbrain/monsterID), by [Andreas Gohr](https://github.com/splitbrain) — 2007
 
@@ -27,7 +27,7 @@
 [Wavatars](http://www.shamusyoung.com/twentysidedtale/?p=1462), by [Shamus Young](https://github.com/ShamusYoung) —  2007
 
 ## WP-Identicon
-![](media/wp-identicon_Scott-Sherrill-Mix.png	)
+![](media/wp-identicon_Scott-Sherrill-Mix.png)
 
 [WP-Identicon](http://scott.sherrillmix.com/blog/blogger/wp_identicon/), by [Scott Sherrill-Mix](https://github.com/sherrillmix) —  2007
 
@@ -43,7 +43,7 @@
 <!-- 2011 -->
 
 ## Vash
-![Vash, by Terrence Cole - 2011](media/Vash_Terrence-Cole.png)
+![Vash, by Terrence Cole — 2011](media/Vash_Terrence-Cole.png)
 
 [Vash](https://github.com/thevash/vash), by Terrence Cole —  2011
 
@@ -69,7 +69,7 @@
 
 <!-- 2014 -->
 ## Bubble
-![Bubble Identicons, by Doug Akridge - 2014](media/bubble-identicon_Doug-Akridge.png)
+![Bubble Identicons, by Doug Akridge — 2014](media/bubble-identicon_Doug-Akridge.png)
 
 [Bubble Identicons](https://github.com/dakridge/identicon), by [Doug Akridge](https://github.com/dakridge) — 2014
 
@@ -86,7 +86,7 @@
 ## Adorable Avatars
 ![Adorable Avatars, by Adorable IO — 2014](media/Adorable-Avatars_Adorable-IO.png)
 
-[Adorable Avatars](https://github.com/adorableio/avatars-api-middleware), by [Jim Remsik](https://github.com/bigtiger)<!-- [Adorable IO](https://github.com/adorableio) -->- 2014
+[Adorable Avatars](https://github.com/adorableio/avatars-api-middleware), by [Jim Remsik](https://github.com/bigtiger)<!-- [Adorable IO](https://github.com/adorableio) -->— 2014
 
 ## FlatHash
 ![FlatHash, by Roberto Horta — 2014](media/flathash_Micah-Nordland.png)
@@ -103,7 +103,7 @@
 ## Florash
 ![](media/florash_Francois-Lafortune.png)
 
-[Florash](https://github.com/AKRFranko/Florash), by [Francois Lafortune](https://github.com/AKRFranko) - 2015
+[Florash](https://github.com/AKRFranko/Florash), by [Francois Lafortune](https://github.com/AKRFranko) — 2015
 
 
 <!-- 2016 -->
@@ -126,6 +126,11 @@
 
 [Circular Identicons](https://github.com/ea7ababe/identicon), by [Agni Flechette](https://github.com/ea7ababe)  —  2017
 
+## Gradient
+![Gradient Avatars, by Tobias Lins  —  2017](media/Gradient-avatars_Tobias-Lins.png)
+
+[Gradient Avatars](https://github.com/tobiaslins/avatar), by [Tobias Lins](https://github.com/tobiaslins)  —  2017
+
 
 <!-- 2018 -->
 
@@ -135,9 +140,9 @@
 [HashIcon](https://github.com/ETCDEVTeam/hashicon), by [Richard Schumann](https://github.com/scco) — 2018
 
 ## Hexicon
-![Hexicon, by Jon Van Oast - 2018](media/hexicon_Jon-Van-Oast.png)
+![Hexicon, by Jon Van Oast — 2018](media/hexicon_Jon-Van-Oast.png)
 
-[Hexicon](https://github.com/naknomum/hexicon/), by [Jon Van Oast](https://github.com/naknomum) - 2018
+[Hexicon](https://github.com/naknomum/hexicon/), by [Jon Van Oast](https://github.com/naknomum) — 2018
 
 
 ## Hydro-Snowflake
@@ -147,25 +152,25 @@
 
 
 ## Pictogrify
-![Pictogrify, by Lúcio Rubens - 2018](media/Pictogrify_Lucio-Rubens.png)
+![Pictogrify, by Lúcio Rubens — 2018](media/Pictogrify_Lucio-Rubens.png)
 
-[Pictogrify](https://github.com/luciorubeens/pictogrify), by [Lúcio Rubens](https://github.com/luciorubeens) - 2018
+[Pictogrify](https://github.com/luciorubeens/pictogrify), by [Lúcio Rubens](https://github.com/luciorubeens) — 2018
 
 ## monKey <!-- NOT an Open-source -->
-![monKey, by Amir Hagafny - 2018](media/monKey-Amir-Hagafny.png)
+![monKey, by Amir Hagafny — 2018](media/monKey-Amir-Hagafny.png)
 
-[monKey](http://www.monkeygen.com/), by [Amir Hagafny](https://medium.com/@amirhagafny) - 2018
+[monKey](http://www.monkeygen.com/), by [Amir Hagafny](https://medium.com/@amirhagafny) — 2018
 
 ## Polkadot-Identicon <!-- NOT an Original idea, adapted from Jazzicon -->
-![Polkadot-Identicon, by Pokadot - 2018](media/polkadot-identicon_Polkadot.png)
+![Polkadot-Identicon, by Pokadot — 2018](media/polkadot-identicon_Polkadot.png)
 
-[Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) - 2018
+[Polkadot-Identicon](https://github.com/polkadot-js/apps/tree/master/packages/ui-identicon), by [Pokadot](https://polkadot.network/) — 2018
 
 # Honorable mention
 ## QR-Code
 ![](media/QR-code_Denso-Wave.png)
 
-[QR-code](http://www.qrcode.com/), by [Denso-Wave](https://www.denso-wave.com/) - 1994
+[QR-code](http://www.qrcode.com/), by [Denso-Wave](https://www.denso-wave.com/) — 1994
 
 ## Letter Avatar
 *It’s not clear who come first with the First Letter & Initials Avatars concept, (widely used by Google GMail) but there are several open source libraries from 2014, such as [LetterAvatar](https://github.com/ksz2k/letter_avatar), [Letterpic](https://github.com/yakovlevga/letterpic) and [ngletteravatar](https://github.com/uttesh/ngletteravatar)*
@@ -177,7 +182,7 @@ Letter Avatar — 2014
 ## Animal Identicon
 ![](media/animal-identicon.png)
 
-Anonymous animals, by Google docs - 20??
+Anonymous animals, by Google docs — 20??
 <!-- also available [animal-identicon-js](https://github.com/camelmasa/animal-identicon-js) -->
 
 
