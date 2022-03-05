@@ -172,6 +172,13 @@
 
 [LifeHash](https://github.com/BlockchainCommons/bc-lifehash), by [Wolf McNally](https://github.com/WolfMcNally) and [Blockchain Commons](https://github.com/BlockchainCommons) - 2018
 
+
+## Solacon
+![Solacon, by Jon Van Oast - 2021](media/solacon_Jon-Van-Oast.png)
+
+[Solacon](https://github.com/naknomum/solacon/), by [Jon Van Oast](https://github.com/naknomum) - 2021
+
+
 # Honorable mention
 ## QR-Code
 ![](media/QR-code_Denso-Wave.png)
