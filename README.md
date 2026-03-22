@@ -178,6 +178,10 @@
 
 [Solacon](https://github.com/naknomum/solacon/), by [Jon Van Oast](https://github.com/naknomum) - 2021
 
+## CircIdenticon
+![CircIdenticon, by Joseph E. Van Riper III - 2026](media/CircIdenticons-tvanriper.png)
+
+[CircIdenticon](https://github.com/tvanriper/circidenticon) by [Joseph E. Van Riper](https://github.com/tvanriper) - 2026
 
 # Honorable mention
 ## QR-Code
