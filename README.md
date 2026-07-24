@@ -144,6 +144,11 @@
 
 <!-- 2018 -->
 
+## ShapeAddress
+![ShapeAddress (MomCode), by Husam Abboud — 2018](media/ShapeAddress-Husam-Abboud.png)
+
+[ShapeAddress](https://lab.shapeaddress.com/lab/) ([MomCode](https://github.com/drhus/MomCode)), by [Husam Abboud](https://github.com/drhus) — 2018
+
 ## HashIcon
 ![HashIcon, by Richard Schumann — 2018](media/HashIcon_Richard-Schumann.png)
 
@@ -181,12 +186,6 @@
 ![LifeHash, by Wolf McNally and Blockchain Commons, 2018](media/LifeHash_Wolf-McNally.png)
 
 [LifeHash](https://github.com/BlockchainCommons/bc-lifehash), by [Wolf McNally](https://github.com/WolfMcNally) and [Blockchain Commons](https://github.com/BlockchainCommons) - 2018
-
-
-## ShapeAddress
-![ShapeAddress (MomCode), by Husam Abboud — 2018](media/ShapeAddress-Husam-Abboud.png)
-
-[ShapeAddress](https://lab.shapeaddress.com/lab/) ([MomCode](https://github.com/drhus/MomCode)), by [Husam Abboud](https://github.com/drhus) — 2018
 
 
 ## Solacon
