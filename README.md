@@ -70,7 +70,7 @@
 ## Github Identicon
 ![](media/Github-Identicon_Jason-Long.png)
 
-[Github Identicon](http://identicon.net/), by [Jason Long](https://github.com/jasonlong) — 2013
+[Github Identicon](https://github.blog/news-insights/company-news/identicons/), by [Jason Long](https://github.com/jasonlong) — 2013
 
 <!-- 2014 -->
 ## Bubble
