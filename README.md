@@ -208,6 +208,11 @@
 
 [Hashvatars](https://francoisbest.com/posts/2021/hashvatars), by [François Best](https://francoisbest.com/) – 2021
 
+## quilt.id
+![quilt.id, by Carl Sverre – 2026](media/Quilt-id_Carl-Sverre.png)
+
+[quilt.id](https://quilt.id), by [Carl Sverre](https://github.com/carlsverre) – 2026
+
 # Honorable mention
 ## QR-Code
 ![](media/QR-code_Denso-Wave.png)
